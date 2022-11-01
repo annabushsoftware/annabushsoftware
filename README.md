@@ -1,4 +1,4 @@
-👋 Hello there! I’m Anna Bush, and I am a freelance software engineer.
+## 👋 Hello there! I’m Anna Bush, and I am a freelance software engineer.
 
 A quick overview of what I do:
 
@@ -12,6 +12,12 @@ A quick overview of what I do:
 
 ⭐ Quality code - follows industry best practices, readable and maintainable, test driven development, thorough quality assurance testing
 
-👀 I’m interested in collaborating with teams that are looking for an expert in full-stack or front-end web development, who have website designs that are ready to be transformed into live code, or perhaps simply a designer that would like an engineer's perspective. Not sure if that's you? Reach out and I'll be happy to chat and see if I can be the right fit for your needs and your team!
+## 👀 I’m interested in collaborating with teams / individuals who:
+- are looking for an expert in full-stack software engineering
+- are looking for an expert in front-end web development
+- have website designs that are ready to be transformed into live code
+- no designs yet, but perhaps simply have a designer that would like an engineer's perspective
 
-📫 Find me on linkedIn at https://www.linkedin.com/in/anna-bush-software/
+Not sure if that's you? Reach out and I'll be happy to chat to discuss if I can fit your needs!
+
+## 📫 Find me on linkedIn at https://www.linkedin.com/in/anna-bush-software/
