@@ -21,5 +21,6 @@ A quick overview of what I do:
 Not sure if that's you? Reach out and I'll be happy to chat to discuss if I can fit your needs!
 
 ## 📫 Contact me 
-[linkedIn](https://www.linkedin.com/in/anna-bush-software/)
-[facebook](https://www.facebook.com/profile.php?id=100087130495183)
+[LinkedIn Profile](https://www.linkedin.com/in/anna-bush-software/)
+
+[Facebook Page](https://www.facebook.com/profile.php?id=100087130495183)
